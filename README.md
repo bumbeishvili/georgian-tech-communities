@@ -55,6 +55,6 @@
 
 ## Help
 [FB - uniHack HelpDesk](https://www.facebook.com/groups/439139636257680/?ref=group_browse_new)  
-[FB - Georgian Web & Mobile Development Support](https://www.facebook.com/groups/georgian.development.support/?ref=group_browse_new)
-[FB - CG Geo Help](https://www.facebook.com/groups/cggeohelp/about/)
+[FB - Georgian Web & Mobile Development Support](https://www.facebook.com/groups/georgian.development.support/?ref=group_browse_new)  
+[FB - CG Geo Help](https://www.facebook.com/groups/cggeohelp/about/)  
 
