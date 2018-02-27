@@ -2,7 +2,21 @@
 # Georgian tech community links
 
 ##  Meetups
-[Meetups - Meetups near Tbilisi](https://www.meetup.com/find/?allMeetups=true&radius=50&userFreeform=Tbilisi%2C%20Georgia&mcId=c1013713&change=yes&sort=recommended&eventFilter=mysugg&_cookie-check=Z3i6Xf1xV7NVaCkO)
+[Meetup - Data Science Tbilisi](https://www.meetup.com/Data-Science-Tbilisi/)  
+[Meetup - Deep Learning Tbilisi](https://www.meetup.com/Deep-Learning-Tbilisi/)  
+[Meetup - Google Developer Group Tbilisi (GDG Tbilisi)](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)  
+[Meetup - Startup Grind Tbilisi](https://www.meetup.com/Startup-Grind-Tbilisi/)    
+[Meetup - HackerNest Tbilisi Tech Socials](https://www.meetup.com/HackerNestTBS/)  
+[Meetup - Tbilisi e-commerce and Magento Meetup](https://www.meetup.com/Tbilisi-e-commerce-and-Magento-Meetup/)  
+[Meetup - R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/)  
+[Meetup - Tbilisi InfoSec Meetup - DC995322](https://www.meetup.com/Tbilisi-InfoSec-Meetup/)  
+[Meetup - Tbilisi MongoDB User Group](https://www.meetup.com/Tbilisi-MongoDB-User-Group/)  
+[Meetup - PHP, Android and iOS Developers, UX and UI Designers Group](https://www.meetup.com/Tbilisi-PHP-Meetup/)  
+[Meetup - Tbilisi Innovation Meetup](https://www.meetup.com/Tbilisi-Innovation-Meetup/)  
+[Meetup - Tbilisi WordPress Meetup](https://www.meetup.com/Tbilisi-WordPress-Meetup/)  
+[Meetup - Tbilisi Artificial Intelligence Meetup](https://www.meetup.com/Tbilisi-Artificial-Intelligence-Meetup/)  
+[Meetup - Tbilisi Functional Programming Meetup](https://www.meetup.com/Tbilisi-Functional-Programming-Meetup/)  
+
 
 ## General 
 [FB - Data Science Tbilisi](https://www.facebook.com/groups/DataScienceTbilisi/?ref=group_browse_new)  
