@@ -1,8 +1,8 @@
 
-Georgian tech community links
+# Georgian tech community links
 
 
-# General Communities
+## General Communities
 
 [FB - Georgian Web & Mobile Development Industry](https://www.facebook.com/groups/georgian.development/)     
 [FB - Tbilisi GTUG](https://www.facebook.com/groups/tbilisigtug/?ref=group_browse_new)    
@@ -19,24 +19,24 @@ Georgian tech community links
 [FB - freeCodeCamp Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/?ref=group_browse_new)  
 [FB - CG Georgia](https://www.facebook.com/groups/384593204991294)  
 
-# Jobs
+## Jobs
 [FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/?ref=group_browse_new)  
 [FB - uniHack Job Listings](https://www.facebook.com/groups/1618717495035787/?ref=group_browse_new)    
 [FB - Dev Jobs Georgia](https://www.facebook.com/dev.jobs.georgia/)  
 [FB - IT Jobs Georgia](https://www.facebook.com/it.jobs.georgia/)  
 
-# MOBILE
+## MOBILE
 [FB - Android Developers - საქართველო](https://www.facebook.com/groups/AndroidDevelopersGeorgia/?ref=group_browse_new)    
 [FB - iOS Development Georgia](https://www.facebook.com/groups/667252413350415/?ref=group_browse_new)    
 
-# Languages
+## Languages
 [FB - Ruby Georgian community](https://www.facebook.com/groups/rubyge/?ref=group_browse_new)    
 
-# Games
+## Games
 [FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/?ref=group_browse_new)  
 [FB - Georgian Game Developers Community](https://www.facebook.com/groups/589613227902063/?ref=group_browse_new)    
 
-# Libraries & Frameworks 
+## Libraries & Frameworks 
 [FB - AngularJS - Georgia](https://www.facebook.com/groups/214640805708885/?ref=group_browse_new)    
 [FB - Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/?ref=group_browse_new)    
 [FB - React.js Georgian Community](https://www.facebook.com/groups/957546290972372/?ref=group_browse_new)  
@@ -44,16 +44,16 @@ Georgian tech community links
 [FB - .NET Georgian Enthusiasts and Developers](https://www.facebook.com/groups/375863892826868/?ref=group_browse_new)  
 [FB - D3.js Georgia (Advanced Data Visualizations)](https://www.facebook.com/groups/d3.js.georgia/?ref=group_browse_new)  
 
-# Tools
+## Tools
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)
 
 
 
-# Project Management  
+## Project Management  
 [FB - პროექტის მენეჯერები](https://www.facebook.com/groups/244021025681762/?ref=group_browse_new)   
 [FB - აიტი მენეჯერები](https://www.facebook.com/groups/303598213038054/?ref=group_browse_new)  
 
-# Help
+## Help
 [FB - uniHack HelpDesk](https://www.facebook.com/groups/439139636257680/?ref=group_browse_new)  
 [FB - Georgian Web & Mobile Development Support](https://www.facebook.com/groups/georgian.development.support/?ref=group_browse_new)
 [FB - CG Geo Help](https://www.facebook.com/groups/cggeohelp/about/)
