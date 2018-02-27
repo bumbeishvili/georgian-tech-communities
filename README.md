@@ -2,7 +2,7 @@
 # Georgian tech community links
 
 
-## General Communities
+## General 
 [FB - Data Science Tbilisi](https://www.facebook.com/groups/DataScienceTbilisi/?ref=group_browse_new)  
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/?ref=group_browse_new)  
 [FB - freeCodeCamp Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/?ref=group_browse_new)  
