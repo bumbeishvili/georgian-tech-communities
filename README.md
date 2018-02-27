@@ -1,6 +1,8 @@
 
 # Georgian tech community links
 
+##  Meetups
+[Meetups - Meetups near Tbilisi](https://www.meetup.com/find/?allMeetups=true&radius=50&userFreeform=Tbilisi%2C%20Georgia&mcId=c1013713&change=yes&sort=recommended&eventFilter=mysugg&_cookie-check=Z3i6Xf1xV7NVaCkO)
 
 ## General 
 [FB - Data Science Tbilisi](https://www.facebook.com/groups/DataScienceTbilisi/?ref=group_browse_new)  
