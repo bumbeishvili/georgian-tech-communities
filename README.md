@@ -40,13 +40,16 @@
 [FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/?ref=group_browse_new)  
 [FB - Georgian Game Developers Community](https://www.facebook.com/groups/589613227902063/?ref=group_browse_new)    
 
-## Libraries & Frameworks 
+## Libraries 
+[FB - React.js Georgian Community](https://www.facebook.com/groups/957546290972372/?ref=group_browse_new)  
+[FB - D3.js Georgia (Advanced Data Visualizations)](https://www.facebook.com/groups/d3.js.georgia/?ref=group_browse_new) 
+
+## Frameworks
 [FB - AngularJS - Georgia](https://www.facebook.com/groups/214640805708885/?ref=group_browse_new)    
 [FB - Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/?ref=group_browse_new)    
-[FB - React.js Georgian Community](https://www.facebook.com/groups/957546290972372/?ref=group_browse_new)  
 [FB - Django Web Framework Georgia](https://www.facebook.com/groups/1875825939406310/?ref=group_browse_new)  
 [FB - .NET Georgian Enthusiasts and Developers](https://www.facebook.com/groups/375863892826868/?ref=group_browse_new)  
-[FB - D3.js Georgia (Advanced Data Visualizations)](https://www.facebook.com/groups/d3.js.georgia/?ref=group_browse_new)  
+ 
 
 ## Tools
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)
