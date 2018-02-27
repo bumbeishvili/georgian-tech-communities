@@ -38,6 +38,11 @@
 ## Graphics & Design
 [FB - UI/UX Designers Georgia](https://www.facebook.com/groups/546519865550066/?ref=group_browse_new)  
 [FB - CG Georgia](https://www.facebook.com/groups/384593204991294)  
+[FB - Georgian Typography | ქართული ტიპოგრაფია](https://www.facebook.com/groups/323187941148723)
+[FB - ქართველი ილუსტრატორები](https://www.facebook.com/groups/380617812036253/)
+[FB - WEAREDESIGNERSGE](https://www.facebook.com/groups/150078801735826/)
+[FB - WEARECONNECTEDGE](https://www.facebook.com/groups/607113446010814/)
+
 
 ## Web 
 [FB - Georgian Web & Mobile Development Industry](https://www.facebook.com/groups/georgian.development/)  
@@ -50,11 +55,13 @@
 
 ## CMS
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)
+[FB - Drupal Georgia](https://www.facebook.com/groups/1452729851644352/about/)
 
 ## System 
 [FB - Georgian LUG](https://www.facebook.com/groups/GeoLUG/?ref=group_browse_new)  
 [FB - Sysadmins GE](https://www.facebook.com/groups/sysadmins.ge/?ref=group_browse_new)  
 [FB - DevOps Georgia](https://www.facebook.com/groups/131978190827270/?ref=group_browse_new)  
+[FB - DevOps GE](https://www.facebook.com/groups/devopsge/)
 
 ## Security  
 [FB - Security GE](https://www.facebook.com/groups/593828250692410/?ref=group_browse_new)  
