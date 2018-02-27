@@ -46,10 +46,8 @@
 [FB - Android Developers - საქართველო](https://www.facebook.com/groups/AndroidDevelopersGeorgia/?ref=group_browse_new)    
 [FB - iOS Development Georgia](https://www.facebook.com/groups/667252413350415/?ref=group_browse_new)  
 
-## Tools
+## CMS
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)
-
-
 
 ## System 
 [FB - Georgian LUG](https://www.facebook.com/groups/GeoLUG/?ref=group_browse_new)  
