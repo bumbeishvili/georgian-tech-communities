@@ -65,6 +65,7 @@
 ## CMS
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)  
 [FB - Drupal Georgia](https://www.facebook.com/groups/1452729851644352/about/)  
+[FB - Joomla](https://www.facebook.com/groups/joomla.georgia)  
 [Meetup - Tbilisi WordPress Meetup](https://www.meetup.com/Tbilisi-WordPress-Meetup/)   
 [Meetup - Tbilisi e-commerce and Magento Meetup](https://www.meetup.com/Tbilisi-e-commerce-and-Magento-Meetup/)  
 
