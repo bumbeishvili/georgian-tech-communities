@@ -9,6 +9,8 @@
 [FB - Tbilisi GTUG](https://www.facebook.com/groups/tbilisigtug/?ref=group_browse_new)    
 [FB - uniHack](https://www.facebook.com/groups/unihackge/?ref=group_browse_new)  
 [FB - FP Georgian Community](https://www.facebook.com/groups/718870691567973/?ref=group_browse_new)  
+[FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/?ref=group_browse_new)   
+
 
 ## Jobs
 [FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/?ref=group_browse_new)  
