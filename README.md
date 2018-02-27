@@ -18,6 +18,8 @@
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/?ref=group_browse_new)  
 [FB - freeCodeCamp Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/?ref=group_browse_new)  
 [FB - CG Georgia](https://www.facebook.com/groups/384593204991294)  
+[FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/?ref=group_browse_new)  
+
 
 ## Jobs
 [FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/?ref=group_browse_new)  
