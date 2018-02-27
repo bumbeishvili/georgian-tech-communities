@@ -31,6 +31,7 @@
 
 ## Languages
 [FB - Ruby Georgian community](https://www.facebook.com/groups/rubyge/?ref=group_browse_new)    
+[FB - Kotlin Developers Group](https://www.facebook.com/groups/1673691909614789/?ref=group_browse_new)    
 
 ## Games
 [FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/?ref=group_browse_new)  
