@@ -27,7 +27,7 @@
 [FB - Dev Jobs Georgia](https://www.facebook.com/dev.jobs.georgia/)  
 [FB - IT Jobs Georgia](https://www.facebook.com/it.jobs.georgia/)  
 
-## MOBILE
+## Mobile
 [FB - Android Developers - საქართველო](https://www.facebook.com/groups/AndroidDevelopersGeorgia/?ref=group_browse_new)    
 [FB - iOS Development Georgia](https://www.facebook.com/groups/667252413350415/?ref=group_browse_new)    
 
