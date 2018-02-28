@@ -32,6 +32,7 @@
 [FB - Ruby Georgian community](https://www.facebook.com/groups/rubyge/)    
 [FB - Kotlin Developers Group](https://www.facebook.com/groups/1673691909614789/)    
 [FB - Python Georgia](https://www.facebook.com/groups/PythonGE/)  
+[FB - Node.js Georgian community](https://www.facebook.com/groups/nodejsge/)  
 [Meetup - R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/)  
 
 
