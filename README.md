@@ -1,4 +1,3 @@
-
 # Georgian tech community links
 
 ## General 
@@ -28,21 +27,25 @@
 [Meetup - Deep Learning Tbilisi](https://www.meetup.com/Deep-Learning-Tbilisi/)  
 [Meetup - Tbilisi Artificial Intelligence Meetup](https://www.meetup.com/Tbilisi-Artificial-Intelligence-Meetup/) 
 
+
 ## Languages
 [FB - Ruby Georgian community](https://www.facebook.com/groups/rubyge/?ref=group_browse_new)    
 [FB - Kotlin Developers Group](https://www.facebook.com/groups/1673691909614789/?ref=group_browse_new)    
 [FB - Python Georgia](https://www.facebook.com/groups/PythonGE/?ref=group_browse_new)  
 [Meetup - R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/)  
 
+
 ## Libraries 
 [FB - React.js Georgian Community](https://www.facebook.com/groups/957546290972372/?ref=group_browse_new)  
 [FB - D3.js Georgia (Advanced Data Visualizations)](https://www.facebook.com/groups/d3.js.georgia/?ref=group_browse_new) 
+
 
 ## Frameworks
 [FB - AngularJS - Georgia](https://www.facebook.com/groups/214640805708885/?ref=group_browse_new)    
 [FB - Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/?ref=group_browse_new)    
 [FB - Django Web Framework Georgia](https://www.facebook.com/groups/1875825939406310/?ref=group_browse_new)  
 [FB - .NET Georgian Enthusiasts and Developers](https://www.facebook.com/groups/375863892826868/?ref=group_browse_new)  
+
 
 ## Graphics & Design
 [FB - UI/UX Designers Georgia](https://www.facebook.com/groups/546519865550066/?ref=group_browse_new)    
@@ -58,9 +61,11 @@
 [FB - Front End Development Georgia](https://www.facebook.com/groups/1450497911907139/?ref=group_browse_new)   
 [FB - Web Development Professionals from Georgia](https://www.facebook.com/groups/170675847027574/?ref=group_browse_new)  
 
+
 ## Mobile
 [FB - Android Developers - საქართველო](https://www.facebook.com/groups/AndroidDevelopersGeorgia/?ref=group_browse_new)    
 [FB - iOS Development Georgia](https://www.facebook.com/groups/667252413350415/?ref=group_browse_new)  
+
 
 ## CMS
 [FB - Advanced WordPress Georgia](https://www.facebook.com/groups/537791756387318/?ref=group_browse_new)  
@@ -69,8 +74,10 @@
 [Meetup - Tbilisi WordPress Meetup](https://www.meetup.com/Tbilisi-WordPress-Meetup/)   
 [Meetup - Tbilisi e-commerce and Magento Meetup](https://www.meetup.com/Tbilisi-e-commerce-and-Magento-Meetup/)  
 
+
 ## DB
 [Meetup - Tbilisi MongoDB User Group](https://www.meetup.com/Tbilisi-MongoDB-User-Group/)  
+
 
 ## System 
 [FB - Georgian LUG](https://www.facebook.com/groups/GeoLUG/?ref=group_browse_new)  
@@ -78,26 +85,28 @@
 [FB - DevOps Georgia](https://www.facebook.com/groups/131978190827270/?ref=group_browse_new)  
 [FB - DevOps GE](https://www.facebook.com/groups/devopsge/)
 
+
 ## Security  
 [FB - Security GE](https://www.facebook.com/groups/593828250692410/?ref=group_browse_new)  
 [Meetup - Tbilisi InfoSec Meetup - DC995322](https://www.meetup.com/Tbilisi-InfoSec-Meetup/)  
 
+
 ## Games
 [FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/?ref=group_browse_new)  
 [FB - Georgian Game Developers Community](https://www.facebook.com/groups/589613227902063/?ref=group_browse_new)    
- 
- ## Project Management  
+
+
+## Project Management  
 [FB - პროექტის მენეჯერები](https://www.facebook.com/groups/244021025681762/?ref=group_browse_new)   
 [FB - აიტი მენეჯერები](https://www.facebook.com/groups/303598213038054/?ref=group_browse_new)  
 
- ## Startup
+
+## Startup
 [FB - Georgian Entrepreneurs Community](https://www.facebook.com/groups/1556294804636507/?ref=group_browse_new)  
 [Meetup - Startup Grind Tbilisi](https://www.meetup.com/Startup-Grind-Tbilisi/)    
-
 
 
 ## Help
 [FB - uniHack HelpDesk](https://www.facebook.com/groups/439139636257680/?ref=group_browse_new)  
 [FB - Georgian Web & Mobile Development Support](https://www.facebook.com/groups/georgian.development.support/?ref=group_browse_new)  
 [FB - CG Geo Help](https://www.facebook.com/groups/cggeohelp/about/)  
-
