@@ -93,9 +93,12 @@
 
 
 ## Games
-[FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/)  
-[FB - Georgian Game Developers Community](https://www.facebook.com/groups/589613227902063/)    
 
+[FB - GameJamTbilisi](https://www.facebook.com/groups/577081799043309/)  
+[FB - Georgian Game Developers Community](https://www.facebook.com/groups/589613227902063/)  
+[FB - GDEVI](https://www.facebook.com/gdevimeetup/)   
+[FB - Georgia Unity Users Group](https://www.facebook.com/groups/GeorgiaUnityUsers/)   
+ 
 
 ## Project Management  
 [FB - პროექტის მენეჯერები](https://www.facebook.com/groups/244021025681762/)   
