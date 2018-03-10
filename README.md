@@ -1,5 +1,6 @@
 # Georgian tech community links  
 
+## Categories
 * [General](#general)  
 * [Jobs](#jobs)  
 * [Remote Working](#remote-working)  
