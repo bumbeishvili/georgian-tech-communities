@@ -1,7 +1,24 @@
-# Georgian tech community links
+# Georgian tech community links  
+
+[General](#general)  
+[Jobs](#jobs)  
+[Remote Working](#remote-working)  
+[Data Science](#data-science)  
+[Languages](#languages)  
+[Libraries](#libraries)  
+[Frameworks](#frameworks)  
+[Graphics & Design](#graphics--design)  
+[Web](#web)  
+[Mobile](#mobile)   
+[Cms](#cms)  
+[DB](#db)  
+[System](#system)  
+[Games](#games)  
+[Project management](#project-management)  
+[Startup](#startup)   
+[Help](#help)  
 
 ## General 
-[FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
 [FB - freeCodeCamp Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/)  
 [FB - Tbilisi GTUG](https://www.facebook.com/groups/tbilisigtug/)    
 [FB - uniHack](https://www.facebook.com/groups/unihackge/)  
@@ -19,6 +36,11 @@
 [FB - uniHack Job Listings](https://www.facebook.com/groups/1618717495035787/)    
 [FB - Dev Jobs Georgia](https://www.facebook.com/dev.jobs.georgia/)  
 [FB - IT Jobs Georgia](https://www.facebook.com/it.jobs.georgia/)  
+[Forum - სამუშაო პროგრამისტებს](https://forum.ge/?f=48&showtopic=33935770&st=2160)
+
+## Remote Working
+[FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
+[Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)
 
 
 ## Data Science
