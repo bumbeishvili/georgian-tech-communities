@@ -34,8 +34,7 @@
 
 ## Jobs
 [FB - Tech Jobs Georgia](https://www.facebook.com/groups/1618717495035787/)  
-[FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/)  
-[FB - uniHack Job Listings](https://www.facebook.com/groups/1618717495035787/)    
+[FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/)     
 [FB - Dev Jobs Georgia](https://www.facebook.com/dev.jobs.georgia/)  
 [FB - IT Jobs Georgia](https://www.facebook.com/it.jobs.georgia/)  
 [Forum - სამუშაო პროგრამისტებს](https://forum.ge/?f=48&showtopic=33935770&st=2160)
