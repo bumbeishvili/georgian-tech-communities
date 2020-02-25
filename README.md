@@ -42,7 +42,8 @@
 
 ## Remote Working
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
-[Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)
+[Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)  
+[FB - Upwork Georgia](https://www.facebook.com/profile.php?id=383366798841330&ref=content_filter)
 
 
 ## Data Science
