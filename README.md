@@ -21,7 +21,7 @@
 
 ## General 
 [FB - freeCodeCamp Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/)  
-[FB - Tbilisi GTUG](https://www.facebook.com/groups/tbilisigtug/)    
+[FB - GDG Tbilisi](https://www.facebook.com/groups/GDGTbilisi/)    
 [FB - uniHack](https://www.facebook.com/groups/unihackge/)  
 [FB - FP Georgian Community](https://www.facebook.com/groups/718870691567973/)  
 [FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/)   
