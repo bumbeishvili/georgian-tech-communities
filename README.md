@@ -42,8 +42,10 @@
 
 ## Remote Working
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
+[FB - Upwork Georgia](https://www.facebook.com/profile.php?id=383366798841330&ref=content_filter)  
+[FB - Freelancer • ფრილანსერი](https://www.facebook.com/groups/1430509957113873/)
 [Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)  
-[FB - Upwork Georgia](https://www.facebook.com/profile.php?id=383366798841330&ref=content_filter)
+
 
 
 ## Data Science
@@ -80,6 +82,7 @@
 [FB - ქართველი ილუსტრატორები](https://www.facebook.com/groups/380617812036253/)  
 [FB - WEAREDESIGNERSGE](https://www.facebook.com/groups/150078801735826/)  
 [FB - WEARECONNECTEDGE](https://www.facebook.com/groups/607113446010814/)  
+[FB - დიზაინერთა სევდა](https://www.facebook.com/groups/466674754134602/)
 
 
 ## Web 
