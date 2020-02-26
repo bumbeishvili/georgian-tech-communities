@@ -86,7 +86,7 @@
 [FB - Georgian Web & Mobile Development Industry](https://www.facebook.com/groups/georgian.development/)  
 [FB - Front End Development Georgia](https://www.facebook.com/groups/1450497911907139/)   
 [FB - Web Development Professionals from Georgia](https://www.facebook.com/groups/170675847027574/)  
-[FB - Javacript Georgia](https://www.facebook.com/JavaScriptGeorgia/)  
+[FB - Javascript Georgia](https://www.facebook.com/JavaScriptGeorgia/)  
 
 ## Mobile
 [FB - Android Developers - საქართველო](https://www.facebook.com/groups/AndroidDevelopersGeorgia/)    
