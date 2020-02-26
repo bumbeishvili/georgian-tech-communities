@@ -25,6 +25,7 @@
 [FB - uniHack](https://www.facebook.com/groups/unihackge/)  
 [FB - FP Georgian Community](https://www.facebook.com/groups/718870691567973/)  
 [FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/)   
+[FB - Windows Developer georgia](https://www.facebook.com/groups/windowsdevelopergeorgia/)  
 [Meetup - PHP, Android and iOS Developers, UX and UI Designers Group](https://www.meetup.com/Tbilisi-PHP-Meetup/)  
 [Meetup - Google Developer Group Tbilisi (GDG Tbilisi)](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)   
 [Meetup - HackerNest Tbilisi Tech Socials](https://www.meetup.com/HackerNestTBS/)    
@@ -60,6 +61,7 @@
 [FB - Kotlin Developers Group](https://www.facebook.com/groups/1673691909614789/)    
 [FB - Python Georgia](https://www.facebook.com/groups/PythonGE/)  
 [FB - Node.js Georgian community](https://www.facebook.com/groups/nodejsge/)  
+[FB - Rust Enthusiasts Georgia](https://www.facebook.com/groups/RustEnthusiastsGeo/)
 [Meetup - R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/)  
 
 
