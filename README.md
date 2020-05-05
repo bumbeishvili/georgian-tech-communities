@@ -44,7 +44,7 @@
 ## Remote Working
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
 [FB - Upwork Georgia](https://www.facebook.com/profile.php?id=383366798841330&ref=content_filter)  
-[FB - Freelancer • ფრილანსერი](https://www.facebook.com/groups/1430509957113873/)
+[FB - Freelancer • ფრილანსერი](https://www.facebook.com/groups/1430509957113873/)  
 [Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)  
 
 
