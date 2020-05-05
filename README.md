@@ -63,6 +63,7 @@
 [FB - Python Georgia](https://www.facebook.com/groups/PythonGE/)  
 [FB - Node.js Georgian community](https://www.facebook.com/groups/nodejsge/)  
 [FB - Rust Enthusiasts Georgia](https://www.facebook.com/groups/RustEnthusiastsGeo/)
+[FB - PHP Georgia](https://www.facebook.com/groups/php.georgia)
 [Meetup - R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/)  
 
 
