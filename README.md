@@ -86,7 +86,8 @@
 [FB - ქართველი ილუსტრატორები](https://www.facebook.com/groups/380617812036253/)  
 [FB - WEAREDESIGNERSGE](https://www.facebook.com/groups/150078801735826/)  
 [FB - WEARECONNECTEDGE](https://www.facebook.com/groups/607113446010814/)  
-[FB - დიზაინერთა სევდა](https://www.facebook.com/groups/466674754134602/)
+[FB - დიზაინერთა სევდა](https://www.facebook.com/groups/466674754134602/)  
+[FB - Dribbble Georgia](https://www.facebook.com/groups/466871177373196/)
 
 
 ## Web 
