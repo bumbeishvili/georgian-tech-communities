@@ -24,8 +24,8 @@
 [FB - GDG Tbilisi](https://www.facebook.com/groups/GDGTbilisi/)    
 [FB - uniHack](https://www.facebook.com/groups/unihackge/)  
 [FB - FP Georgian Community](https://www.facebook.com/groups/718870691567973/)  
-[FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/)   
-[FB - Windows Developer georgia](https://www.facebook.com/groups/windowsdevelopergeorgia/)  
+[FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/)  
+[FB - Microsoft Developer Georgia](https://www.facebook.com/groups/msdevgeorgia/)  
 [Meetup - PHP, Android and iOS Developers, UX and UI Designers Group](https://www.meetup.com/Tbilisi-PHP-Meetup/)  
 [Meetup - Google Developer Group Tbilisi (GDG Tbilisi)](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)   
 [Meetup - HackerNest Tbilisi Tech Socials](https://www.meetup.com/HackerNestTBS/)    
@@ -75,6 +75,8 @@
 [FB - Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)    
 [FB - Django Web Framework Georgia](https://www.facebook.com/groups/1875825939406310/)  
 [FB - .NET Georgian Enthusiasts and Developers](https://www.facebook.com/groups/375863892826868/)  
+[FB page - .NET Developers Georgia](https://www.facebook.com/dotnet.ge/)  
+[FB - Blazor-ის ქართული ჯგუფი](https://www.facebook.com/groups/436657746932116/)  
 
 
 ## Graphics & Design
