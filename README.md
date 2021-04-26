@@ -26,6 +26,7 @@
 [FB - FP Georgian Community](https://www.facebook.com/groups/718870691567973/)  
 [FB - Math and CS GE](https://www.facebook.com/groups/809269445766028/)  
 [FB - Microsoft Developer Georgia](https://www.facebook.com/groups/msdevgeorgia/)  
+[FB - პროგრამირება](https://www.facebook.com/groups/programireba)
 [Meetup - PHP, Android and iOS Developers, UX and UI Designers Group](https://www.meetup.com/Tbilisi-PHP-Meetup/)  
 [Meetup - Google Developer Group Tbilisi (GDG Tbilisi)](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)   
 [Meetup - HackerNest Tbilisi Tech Socials](https://www.meetup.com/HackerNestTBS/)    
