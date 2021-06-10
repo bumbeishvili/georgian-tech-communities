@@ -71,7 +71,7 @@
 
 ## Libraries 
 [FB - React.js Georgian Community](https://www.facebook.com/groups/957546290972372/)  
-[FB - React Georgia](https://www.facebook.com/groups/reactgeorgia)
+[FB - React Georgia](https://www.facebook.com/groups/reactgeorgia)  
 [FB - D3.js Georgia (Advanced Data Visualizations)](https://www.facebook.com/groups/d3.js.georgia/) 
 
 
