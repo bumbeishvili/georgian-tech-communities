@@ -39,7 +39,12 @@
 [FB - ვაკანსიები პროგრამისტებისთვის](https://www.facebook.com/groups/100969090566492/)     
 [FB - Dev Jobs Georgia](https://www.facebook.com/dev.jobs.georgia/)  
 [FB - IT Jobs Georgia](https://www.facebook.com/it.jobs.georgia/)  
-[Forum - სამუშაო პროგრამისტებს](https://forum.ge/?f=48&showtopic=33935770&st=2160)
+[Forum - სამუშაო პროგრამისტებს](https://forum.ge/?f=48&showtopic=33935770&st=2160)  
+[FB - Tech Talent | Development](https://www.facebook.com/groups/622062798483977/)  
+[FB - Tech Talent | Design](https://www.facebook.com/groups/986409331861377/)  
+[FB - Tech Talent | Marketing](https://www.facebook.com/groups/741614676427638/)  
+[FB - Tech Talent | QA](https://www.facebook.com/groups/375640073481650/)  
+[FB - Tech Talent | Product](https://www.facebook.com/groups/129324952430006/)  
 
 
 ## Remote Working
