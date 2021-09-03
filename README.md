@@ -158,3 +158,4 @@
 [FB - uniHack HelpDesk](https://www.facebook.com/groups/439139636257680/)  
 [FB - Georgian Web & Mobile Development Support](https://www.facebook.com/groups/georgian.development.support/)  
 [FB - CG Geo Help](https://www.facebook.com/groups/cggeohelp/about/)  
+[FB - Georgian GitHub Community](https://www.facebook.com/groups/262865965318729)
