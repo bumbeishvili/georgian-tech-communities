@@ -50,8 +50,8 @@
 
 ## Remote Working
 [FB - Remote Work - Georgian Community](https://www.facebook.com/groups/upwork.georgian.community/)  
-[FB - Kutaisi Digital Nomads (mostly english speaking people)](https://www.facebook.com/groups/277532136557116)
-[FB - Tbilisi Digital Nomads (mostly english speaking people)](https://www.facebook.com/groups/tbilisidigitalnomad/)
+[FB - Kutaisi Digital Nomads (mostly english speaking people)](https://www.facebook.com/groups/277532136557116)  
+[FB - Tbilisi Digital Nomads (mostly english speaking people)](https://www.facebook.com/groups/tbilisidigitalnomad/)  
 [FB - Upwork Georgia](https://www.facebook.com/profile.php?id=383366798841330&ref=content_filter)  
 [FB - Freelancer • ფრილანსერი](https://www.facebook.com/groups/1430509957113873/)  
 [Forum - upwork- ზე მუშაობა და მასთან დაკავშირებული საკითხები](https://forum.ge/?f=48&showtopic=34472638&st=480)  
